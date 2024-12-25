@@ -1,1 +1,0 @@
-y_test = test_data.iloc[:,0].values
